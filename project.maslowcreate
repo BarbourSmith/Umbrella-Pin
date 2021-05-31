@@ -20,7 +20,7 @@
                 },
                 {
                     "name": "y length",
-                    "ioValue": 12
+                    "ioValue": 11.5
                 }
             ]
         },
@@ -79,7 +79,7 @@
                 },
                 {
                     "name": "height",
-                    "ioValue": 5
+                    "ioValue": 4.5
                 }
             ]
         },
@@ -173,6 +173,19 @@
             ]
         },
         {
+            "atomType": "Stl",
+            "name": "Stl",
+            "x": 0.8125915080527086,
+            "y": 0.7251908396946565,
+            "uniqueID": 289982,
+            "ioValues": [
+                {
+                    "name": "geometry",
+                    "ioValue": "atoms/412822/156611Difference"
+                }
+            ]
+        },
+        {
             "atomType": "Output",
             "name": "Output",
             "x": 0.9856424982053121,
@@ -228,6 +241,13 @@
             "ap2Primary": false,
             "ap1ID": 156611,
             "ap2ID": 871094
+        },
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "geometry",
+            "ap2Primary": false,
+            "ap1ID": 156611,
+            "ap2ID": 289982
         },
         {
             "ap1Name": "geometry",
